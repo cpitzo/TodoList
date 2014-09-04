@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_itemInsert"
+        android:title="@string/insertLabel">
+        
+    </item>
+    <item
+        android:id="@+id/menu_itemSortA_Z"
+        android:title="@string/sortA_Z">
+        
+    </item>
+    <item
+        android:id="@+id/menu_itemSortDate"
+        android:title="@string/sortDate">
+        
+    </item>
+    <item
+        android:id="@+id/menu_itemsortSubj"
+        android:title="@string/sortSubj">
+        
+    </item>
+    <item
+        android:id="@+id/menu_itemUnorder"
+        android:title="@string/unorder">
+        
+    </item>
+    <item
+        android:id="@+id/menu_itemDeleted"
+        android:title="@string/deleted">
+        
+    </item>
+
+</menu>

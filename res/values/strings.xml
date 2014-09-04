@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To Do App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">actionSettings</string>
+    
+
+<string name="insertLabel">Insert</string>
+<string name="sortA_Z">Sort: A-Z</string>
+<string name="sortDate">Sort: Due Date</string>
+<string name="unorder">Sort: date entered</string>
+<string name="sortSubj">Sort: Subject</string>
+<string name="classLabel">Class:</string>
+<string name="save">Save Database</string>
+<string name="deleted">Deleted Entries</string>
+<string name="space"> </string>
+<string name="classDescriptor"> </string>
+<string name="nameLabel">Name: </string>
+<string name="dueLabel">Due:</string>
+<string name="btnUpdate">update database</string>
+<string name="btnInsert">insert</string>
+</resources>
